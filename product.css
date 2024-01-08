@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(120deg, #27e7b1, #24031e);
+}
+
+.box {
+    border: 1px solid black;
+    width: 250px;
+    height: 330px;
+    border-radius: 12px;
+    background-image: linear-gradient(to right, #2afadf, #4c83ff);
+
+}
+
+.box1 {
+    border: 1px solid black;
+    width: 250px;
+    height: 330px;
+    border-radius: 12px;
+    background-image: linear-gradient(to right, #15cab2, #1655ea);
+}
+
+#bt {
+    border: 1px solid green;
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: lime;
+    border-radius: 12px;
+    margin-left: 90%;
+}
+
+#bt a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
